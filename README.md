@@ -1,2 +1,3 @@
 # Git-Training
-Practising Git from the command line
+
+Practising Git from the command line with collboration.
